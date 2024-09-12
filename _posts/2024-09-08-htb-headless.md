@@ -8,7 +8,7 @@ categories: HTB
 
 ![image](/images/26e076db204a74b99390e586d7ebcf8c.webp){:height="150px" style="float:right; margin: 10px" }
 Headless is an Easy difficulty linux machine that features a Python Werkzeug server hosting a website. The website has a support form, which we find is vulnerable to an XXS attack that we can use to steal an admin cookie, which gives us access to a dashboard that is vulnerable to command injection. After getting a shell on the box, we find that the user can run a particular shell script as sudo which doesn't use absolute paths, which we can exploit to get root.
-
+<!--more-->
 ## Recon
 We start things off with an nmap scan:
 ```
