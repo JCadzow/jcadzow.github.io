@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a blog for my CTF Writeups. I mostly do CTFs from HackTheBox, but I may possibly do some from the OffSec library as well as from TryHackMe.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The goal here is threefold; I hope that by doing writeups, I'll be able to improve my report writing skills, deepen my understanding of the hacking techniques and vulnerabilities featured in the boxes I complete, and to provide a tutorial for others to follow if they're struggling with a particular box.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Thanks for taking the time to checkout my blog :)
